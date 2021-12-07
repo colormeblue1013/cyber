@@ -3,3 +3,4 @@
 # @Author : Yang
 # @File : new.py
 # @Software : PyCharm
+a = 'hahahhah'
